@@ -1,0 +1,6 @@
+## Ansible Hosts File for Lab 
+
+[Devices]
+ROUTER01 ansible_host=192.168.153.10
+ROUTER02 ansible_host=192.168.153.20
+ROUTER03 ansible_host=192.168.153.30
